@@ -1,5 +1,10 @@
-While you're here, feel free to follow some of my friends.
+idk
 
-https://gamejolt.com/@BobIsMAD666
+Here's netwox's pfp lol.
 
-https://gamejolt.com/@Bluue49
+<img src="netwox-pfp.png"> 
+
+
+Actual stats:
+
+[![idk what jekyll is](https://github.com/Juarez2010/Juarez2010.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/Juarez2010/Juarez2010.github.io/actions/workflows/jekyll.yml)
